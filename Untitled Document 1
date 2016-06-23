@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+codesapiens
+db.sqlite3
+/static
+.DS_STORE
